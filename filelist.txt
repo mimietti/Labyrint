@@ -1,0 +1,2 @@
+Labyrint kopio
+filelist.txt
