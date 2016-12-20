@@ -1,0 +1,8 @@
+# DO NOT EDIT OR REMOVE THIS FILE!
+# Generated on: Mon Nov 28 14:21:54 UTC 2016
+# SDK Version: 0.2.41
+support-annotations-23.2.1.jar
+support-v4-23.2.1.aar
+jsr305-3.0.0.jar
+appcompat-v7-23.0.1.aar
+recyclerview-v7-23.0.1.aar
